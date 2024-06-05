@@ -181,6 +181,10 @@ footer{
     font-family: "LXGW WenKai TC", cursive;
     font-weight: 400;
     font-style: normal;
+    cursor: pointer;
+}
+.footer-box ul :hover{
+    color: #DDC7BB;
 }
 @media (max-width:1321px) {
     .img{
